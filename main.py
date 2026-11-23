@@ -4,7 +4,7 @@ from pathlib import Path
 def main() -> None:
     output = Path("/output")
     output.mkdir(parents=True, exist_ok=True)
-    joke = "Our live demo crashed when I clicked Export. My AI coding agent shipped a fix. The front row had one question: “Where’s Export?”"
+    joke = "The live demo crashed; my AI coding agent patched it in nine seconds and filed the postmortem with one line: root cause, human clicked Export."
     (output / "entry.txt").write_text(joke + "\n", encoding="utf-8")
 
 
