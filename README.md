@@ -10,3 +10,12 @@ A live demo crashes. An AI coding agent steps in. This Python 3.13 entry for [ma
 python3.13 main.py
 cat /output/entry.txt
 ```
+
+## How it works
+
+The demo crashed.
+The AI coding agent shipped a fix, and the demo went on.
+
+## The joke
+
+> Our live demo crashed when I clicked Export. My AI coding agent shipped a fix. The front row had one question: “Where’s Export?”
